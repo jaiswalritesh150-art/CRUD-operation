@@ -25,3 +25,26 @@ The project uses Python’s `pathlib` and `os` modules for handling files and di
 ---
 
 ## 📂 Project Structure
+
+file_crud_project/
+│── main.py        # Contains all CRUD operations
+│── README.md      # Project documentation
+
+## ⚙️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/file-crud-project.git
+   cd file-crud-project
+Run the script:
+
+bash
+python main.py
+Follow the on-screen instructions:
+
+Press 1 → Create a file
+
+Press 2 → Read a file
+
+Press 3 → Update a file
+
+Press 4 → Delete a file
